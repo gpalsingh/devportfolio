@@ -547,7 +547,7 @@ footer {
     float: left;
 }
 
-.project-image img {
+.project-image-src {
     width: 300px;
     height: 300px;
 }
